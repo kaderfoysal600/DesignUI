@@ -4,7 +4,7 @@ import MediaLeft from './leftContainerPages/MediaLeft'
 import SocialLeft from './leftContainerPages/SocialLeft'
 import DonutChartBlock from './leftContainerPages/DonutChartBlock'
 import MenuBox from './leftContainerPages/MenuBox'
-
+import '../styles/LeftContainer.css'
 export default function LeftContainer() {
   return (
     <div className='left-container container'>

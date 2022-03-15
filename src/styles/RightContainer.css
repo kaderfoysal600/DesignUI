@@ -1,0 +1,153 @@
+.right-container {
+}
+.join-newsletter {
+  height: 230px;
+}
+.join-newsletter .titular {
+  padding-top: 10px;
+}
+.subscribe.button {
+  background: #11a8ab;
+  margin-top: 10px;
+  padding: 1rem;
+  margin-left: 4rem;
+}
+.subscribe.button:hover {
+  background: #0f9295;
+}
+.account {
+  height: 390px;
+}
+.account .titular {
+  padding: 10px 0;
+}
+.sign-in.button {
+  background: #e64c65;
+  margin: 10px auto;
+}
+.sign-in.button:hover {
+  background: #cc324b;
+}
+.account p {
+  text-align: center;
+}
+.fb-sign-in {
+  margin-top: 28px;
+  display: block;
+  line-height: 50px;
+  background: #3468af;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  -webkit-transition: background 0.3s;
+  transition: background 0.3s;
+}
+.fb-sign-in:hover {
+  background: #1a4e95;
+  text-decoration: none;
+}
+.fb-sign-in .icon {
+  line-height: 20px;
+  font-size: 12px;
+  padding-right: 3px;
+}
+.fb-border {
+  display: inline-block;
+  width: 23px;
+  line-height: 20px;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.loading {
+  height: 200px;
+  padding-top: 35px;
+}
+.loading p {
+  display: inline-block;
+  padding-left: 30px;
+  margin: 5px 0 20px;
+}
+.loading .icon {
+  padding-right: 15px;
+}
+.loading .percentage {
+  float: right;
+  padding: 6px 35px 0 0;
+}
+.loading .progress-bar {
+  width: 250px;
+  height: 20px;
+  background: #50597b;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.progress-bar.downloading {
+  background: -webkit-linear-gradient(
+    left,
+    #11a8ab 81%,
+    #50597b 81%
+  ); /* Chrome10+,Safari5.1+ */
+  background: -ms-linear-gradient(left, #11a8ab 81%, #50597b 81%); /* IE10+ */
+  background: linear-gradient(to right, #11a8ab 81%, #50597b 81%); /* W3C */
+}
+.progress-bar.uploading {
+  background: -webkit-linear-gradient(
+    left,
+    #4fc4f6 43%,
+    #50597b 43%
+  ); /* Chrome10+,Safari5.1+ */
+  background: -ms-linear-gradient(left, #4fc4f6 43%, #50597b 43%); /* IE10+ */
+  background: linear-gradient(to right, #4fc4f6 43%, #50597b 43%); /* W3C */
+}
+.calendar-day {
+  height: 320px;
+  background: #3468af;
+}
+.calendar-day .titular {
+  background: #1a4e95;
+}
+.calendar-day .arrow-btn:hover {
+  background: #16417e;
+}
+.calendar-day .the-day {
+  margin: 0;
+  text-align: center;
+  font-size: 146px;
+}
+.add-event.button {
+  background: #4fc4f6;
+}
+.add-event.button:hover {
+  background: #35aadc;
+}
+.calendar-month {
+  height: 380px;
+}
+.calendar-month .titular {
+  background: #3468af;
+}
+.calendar-month .arrow-btn:hover {
+  background: #1a4e95;
+}
+.calendar {
+  margin: 22px 15px;
+  text-align: center;
+}
+.calendar a {
+  font-size: 17px;
+}
+.calendar td,
+.calendar th {
+  width: 40px;
+  height: 38px;
+}
+.calendar .days-week {
+  color: #4fc4f6;
+}
+.calendar .today {
+  display: block;
+  width: 34px;
+  line-height: 34px;
+  background: #e64c65;
+  border-radius: 100%;
+}
