@@ -993,6 +993,8 @@ p.center-date {
 .subscribe.button {
   background: #11a8ab;
   margin-top: 10px;
+  padding: 1rem;
+  margin-left: 4rem;
 }
 .subscribe.button:hover {
   background: #0f9295;

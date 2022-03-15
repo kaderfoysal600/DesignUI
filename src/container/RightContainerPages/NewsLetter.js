@@ -1,3 +1,4 @@
+import { Button } from '@mui/material'
 import React from 'react'
 
 export default function NewsLetter() {
@@ -8,7 +9,7 @@ export default function NewsLetter() {
         <input type="text" placeholder="yourname@gmail.com" className="email text-input"/>
         <div className="input-icon envelope-icon-newsletter"><span className="fontawesome-envelope scnd-font-color"></span></div>
     </div>
-    <a className="subscribe button" href="#21">SUBSCRIBE</a>
+    <Button variant="contained" color="success" className="subscribe button">SUBSCRIBE</Button>
 </div>
   )
 }

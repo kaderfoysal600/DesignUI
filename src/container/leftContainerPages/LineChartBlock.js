@@ -1,6 +1,6 @@
 import React from "react";
-import MonthDataRatio from "../components/MonthDataRatio";
-import Time from "../components/Time";
+import MonthDataRatio from "../../components/MonthDataRatio";
+import Time from "../../components/Time";
 
 export default function LineChartBlock() {
   return (

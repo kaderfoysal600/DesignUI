@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuBoxTab from './MenuBoxTab'
+import MenuBoxTab from '../../components/MenuBoxTab'
 
 export default function MenuBox() {
   return (

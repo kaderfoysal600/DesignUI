@@ -1,5 +1,5 @@
 import React from 'react'
-import SocialMiddleElement from '../components/SocialMiddleElement'
+import SocialMiddleElement from '../../components/SocialMiddleElement'
 
 export default function SocialMiddle() {
   return (

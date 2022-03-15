@@ -1,5 +1,5 @@
 import React from 'react'
-import NextDate from '../components/NextDate'
+import NextDate from '../../components/NextDate'
 
 export default function Weather() {
   return (

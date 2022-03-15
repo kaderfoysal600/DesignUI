@@ -1,8 +1,8 @@
 import './App.css';
-import Header from './pages/Header';
-import LeftContainer from './components/LeftContainer';
-import MiddleContainer from './pages/MiddleContainer';
-import RightContainer from './pages/RightContainer';
+import Header from './container/Header';
+import LeftContainer from './container/LeftContainer';
+import MiddleContainer from './container/MiddleContainer'
+import RightContainer from './container/RightContainer';
 
 function App() {
   return (

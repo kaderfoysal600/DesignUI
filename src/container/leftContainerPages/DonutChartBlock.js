@@ -1,6 +1,6 @@
 import React from "react";
-import OsPercentage from "./OsPercentage";
-import Porcion from "./Porcion";
+import OsPercentage from "../../components/OsPercentage";
+import Porcion from "../../components/Porcion";
 
 export default function DonutChartBlock() {
   return (

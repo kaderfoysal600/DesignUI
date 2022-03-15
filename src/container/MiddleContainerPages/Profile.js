@@ -1,5 +1,5 @@
 import React from "react";
-import ProfileOption from "../components/ProfileOption";
+import ProfileOption from "../../components/ProfileOption";
 
 export default function Profile() {
   return (

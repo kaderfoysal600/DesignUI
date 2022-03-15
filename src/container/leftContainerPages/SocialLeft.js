@@ -1,5 +1,5 @@
 import React from "react";
-import SocialElementLeft from "../components/SocialElementLeft";
+import SocialElementLeft from "../../components/SocialElementLeft";
 
 export default function SocialLeft() {
   return <div>
